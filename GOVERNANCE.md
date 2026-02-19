@@ -66,8 +66,9 @@ The NVSentinel project has the following roles, listed in order of increasing sc
 1. Be an active Reviewer for at least 3 months
 2. Demonstrate excellent technical judgment and code review quality
 3. Show ability to make sound architectural decisions
-4. Be nominated by an existing Approver or Maintainer
-5. Be approved by a majority of Maintainers
+4. Deliver a feature end to end
+5. Be nominated by an existing Approver or Maintainer
+6. Be approved by a majority of Maintainers
 
 ### Maintainers
 
